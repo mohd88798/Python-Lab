@@ -1,6 +1,3 @@
-from xmlrpc.client import Boolean
-
-
 my_list = ['Zaid',24,28.35,True,'A',4,25.3,False,'M','T',False]
 
 i=s=f=c=b=0
