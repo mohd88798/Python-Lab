@@ -1,6 +1,6 @@
 # Print an n digit number in reverse order
 
-number = int(input('Enter a number: '))
+number = int(input("Enter a number: "))
 result = 0
 lastdigit = 0
 while number!=0:

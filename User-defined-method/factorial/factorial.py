@@ -1,4 +1,4 @@
-from method import *
+from fact_method import *
 
 n = int(input("Enter a number to calculate a factorial: "))
 
